@@ -1,0 +1,31 @@
+
+#navegacion {
+    background: #F9F9F9;
+}
+#navegacion a {
+	color: #00c0d8;
+}
+
+#lateral {
+	padding-top: 60px;
+}
+#datos {
+	padding: 20px;
+	background-color: #00bcd4;
+	color: white;
+	border-radius: 10px;
+}
+#foto {
+	border-radius: 100px;
+    border: 6px solid white;
+    color: white;
+}
+
+h2 {
+    margin-top: 60px;
+}
+
+footer {
+	background-color: #00bcd4;
+	color: white;
+}
